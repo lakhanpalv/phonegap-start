@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cardova>
+	<plugins>
+		<plugin name="VideoPlayer" value="com.phonegap.plugins.video.VideoPlayer"/>
+	</plugins>
+</cordova>
